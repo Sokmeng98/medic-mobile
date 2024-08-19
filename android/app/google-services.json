@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434773844919",
+    "project_id": "medic-notification-19e86",
+    "storage_bucket": "medic-notification-19e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434773844919:android:7eb7c2d80dce41828c3e32",
+        "android_client_info": {
+          "package_name": "com.example.paramedix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87qEUfUn9qDqlcD279mupFQhb-bmMyc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
